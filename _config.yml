@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Justin Wang
 subtitle:
-description:
-author: John Doe
-email:
-language:
+description: Journal of Justin Wang, product designer.
+author: Justin Wang
+email: hello@justinjaywang.com
+language: en
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: http://justinjaywang.github.io/journal
+root: /journal/
 permalink: :year/:month/:day/:title/
 tag_dir: tags
 archive_dir: archives
@@ -23,10 +23,10 @@ permalink_defaults:
 
 # Directory
 source_dir: source
-public_dir: public
+public_dir: build
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :year-:month-:day--:title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
@@ -56,7 +56,7 @@ tag: 2
 ## Hexo uses Connect as a server
 ## You can customize the logger format as defined in
 ## http://www.senchalabs.org/connect/logger.html
-port: 4000
+port: 7000
 server_ip: localhost
 logger: false
 logger_format: dev
@@ -65,7 +65,7 @@ logger_format: dev
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: MMM D YYYY
+date_format: DD MMM YYYY
 time_format: H:mm:ss
 
 # Pagination
@@ -85,4 +85,7 @@ exclude_generator:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: github
+  repo: https://github.com/justinjaywang/journal.git
+  branch: gh-pages
+  message: updated site {{ now('YYYY-MM-DD HH:mm:ss') }}

@@ -1,6 +1,6 @@
 {
-  "name": "hexo-site",
-  "version": "",
+  "name": "journal",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "hexo-renderer-ejs": "*",
