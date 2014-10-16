@@ -5,19 +5,19 @@
 # Site
 title: Justin Wang
 subtitle:
-description: Journal of Justin Wang, product designer.
+description: Journal of Justin Wang, product designer
 author: Justin Wang
 email: hello@justinjaywang.com
-language: en
+language: en-US
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://justinjaywang.github.io/journal
 root: /journal/
-permalink: :year/:month/:day/:title/
-tag_dir: tags
-archive_dir: archives
-category_dir: categories
+permalink: :year/:title/
+tag_dir: tag
+archive_dir: archive
+category_dir: category
 code_dir: downloads/code
 permalink_defaults:
 
