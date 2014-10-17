@@ -12,8 +12,8 @@ language: en-US
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://justinjaywang.github.io/journal
-root: /journal/
+url: http://journal.justinjaywang.com
+root: /
 permalink: :year/:title/
 tag_dir: tag
 archive_dir: archive
