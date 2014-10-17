@@ -1,0 +1,3 @@
+[submodule "themes/monk"]
+	path = themes/monk
+	url = git@github.com:justinjaywang/monk.git
