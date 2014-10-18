@@ -10,7 +10,7 @@ tags:
 
 I'm continuing to learn and get work done. I accomplished my goal of finishing the prototype for Trove at the end of last week.
 
-Over the weekend, I read Google's [Material Design](http://www.google.com/design/spec/material-design/introduction.html) guidelines. It had some interesting stuff, and I always enjoy thinking holistically about digital interfaces. I also went through some of my bookmarked Medium articles.
+Over the weekend, I read Google's [Material Design](http://www.google.com/design/spec/material-design/introduction.html) guidelines. It had some interesting stuff, and I always enjoy thinking holistically about digital interfaces. It keeps me inspired. I also went through some of my bookmarked Medium articles.
 
 This week, I updated and themed my [Tumblr blog](http://justinjaywang.tumblr.com/) and moved my journal from Scriptogram to a [Hexo](http://hexo.io/)-generated static site hosted on GitHub pages. For it, I created a custom theme called [Monk](https://github.com/justinjaywang/monk); this new journal utilizes a lot of the technology I enjoy learning about.
 
