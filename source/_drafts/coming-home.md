@@ -13,8 +13,9 @@ tags:
 - hope to find what i'm looking for
 - get inspired, get different perspectives on things from the people down there
 
-goals:
+goals/priorities:
 
+- music
 - cook
 - plenty of sun, exercise
 - see friends in SoCal
