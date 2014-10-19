@@ -8,7 +8,7 @@ tags:
 
 ---
 
-I'm continuing to learn and get work done. I accomplished my goal of finishing the prototype for Trove at the end of last week.
+I'm continuing to learn and get work done. I accomplished my goal of finishing the prototype for the project at the end of last week.
 
 Over the weekend, I read Google's [Material Design](http://www.google.com/design/spec/material-design/introduction.html) guidelines. It had some interesting stuff, and I always enjoy thinking holistically about digital interfaces. It keeps me inspired. I also went through some of my bookmarked Medium articles.
 
