@@ -15,17 +15,17 @@ Returned yesterday from a family vacation that Jen and I planned. We stayed at a
 **Day 1:** We left for Palm Springs in the late morning. When we arrived, we ate [sandwiches](http://sandwichspotpalmsprings.com/) for lunch, walked to the pharmacy to get sunblock (I also picked up a hat and sandals), and then spent the afternoon swimming and relaxing by the pool. Dinner at [Lulu](https://www.lulupalmsprings.com/).
 
 ![Walking back from the Sandwich Stop.](https://dl.dropbox.com/u/4291520/journal-images/palm-joshua-1.jpg)
-![Hidden Valley in Joshua Tree.](https://dl.dropbox.com/u/4291520/journal-images/palm-joshua-3.jpg)
-![Cactus.](https://dl.dropbox.com/u/4291520/journal-images/palm-joshua-4.jpg)
-![Jen on Ryan Mountain.](https://dl.dropbox.com/u/4291520/journal-images/palm-joshua-5.jpg)
-![Joshua trees.](https://dl.dropbox.com/u/4291520/journal-images/palm-joshua-6.jpg)
-![Cholla Cactus Garden.](https://dl.dropbox.com/u/4291520/journal-images/palm-joshua-7.jpg)
 
 ---
 
 **Day 2:** I woke up early and read. Later, I went with Mom and Jen to Sherman's for breakfast, where I got Beef 'n Latkes—corned beef in between two latkes, served with pickles. We spent the day in Joshua Tree National Park, and didn't get back until dark. For dinner, we had pho at the hotel restaurant.
 
 ![Sherman's Beef 'n Latkes.](https://dl.dropbox.com/u/4291520/journal-images/palm-joshua-2.jpg)
+![Hidden Valley in Joshua Tree.](https://dl.dropbox.com/u/4291520/journal-images/palm-joshua-3.jpg)
+![Cactus.](https://dl.dropbox.com/u/4291520/journal-images/palm-joshua-4.jpg)
+![Jen on Ryan Mountain.](https://dl.dropbox.com/u/4291520/journal-images/palm-joshua-5.jpg)
+![Joshua trees.](https://dl.dropbox.com/u/4291520/journal-images/palm-joshua-6.jpg)
+![Cholla Cactus Garden.](https://dl.dropbox.com/u/4291520/journal-images/palm-joshua-7.jpg)
 ![Phở after a long day.](https://dl.dropbox.com/u/4291520/journal-images/palm-joshua-8.jpg)
 
 ---
