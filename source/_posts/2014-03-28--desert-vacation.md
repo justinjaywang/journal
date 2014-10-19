@@ -32,8 +32,8 @@ Returned yesterday from a family vacation that Jen and I planned. We stayed at a
 
 **Day 3:** In the morning, I lifted weights at the fitness center; Jen swam, and Dad did exercises on the stationary bike. The family went to [L'Atelier Cafe](http://www.latelier-cafe.com/) for breakfast. Jen and I left for Joshua Tree to hike while Mom and Dad stayed in Palm Springs to relax. The hike we had planned to do was closed, so we ended up doing a backcountry hike at [Porcupine Wash](https://www.google.com/maps/place/Porcupine+Wash/@33.8209073,-115.7863661,5580m/data=!3m1!1e3!4m2!3m1!1s0x80da872d6a497a79:0xb8c0358c19404ec1) that lasted several hours. We were glad to relax at the hotel jacuzzi once we got back in the evening. That night, the family went to [Fisherman's Market & Grill](https://www.fishermans.com/palmsprings.php) for dinner.
 
-![Porcupine Wash (1 of 2).](https://dl.dropbox.com/u/4291520/journal-images/palm-joshua-9.jpg)
-![Porcupine Wash (2 of 2).](https://dl.dropbox.com/u/4291520/journal-images/palm-joshua-10.jpg)
+![Backcountry hike at Porcupine Wash.](https://dl.dropbox.com/u/4291520/journal-images/palm-joshua-9.jpg)
+![](https://dl.dropbox.com/u/4291520/journal-images/palm-joshua-10.jpg)
 
 ---
 
