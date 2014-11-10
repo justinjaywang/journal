@@ -3,6 +3,7 @@ tags:
 - daily
 - food
 - cooking
+- berkeley
 date: 2014-10-31 08:00:42
 ---
 
