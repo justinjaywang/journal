@@ -12,4 +12,4 @@ What I value the most:
 - creating things—be it design, music, art, websites
 - eating healthy, delicious food
 - exercise, nature, and the outdoors
-- music, and the unique feeling of vibing with a song
+- music, and the feeling you get when vibing with a song that's unlike any other
