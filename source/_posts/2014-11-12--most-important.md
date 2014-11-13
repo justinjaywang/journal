@@ -10,6 +10,6 @@ What I value the most:
 
 - relationships, with family and close friends
 - creating things—be it design, art, music, websites
-- music, and the emotions it can elicit
 - eating and cooking healthy, delicious food
 - exercise, nature, and the outdoors
+- music, and the emotions it can elicit
