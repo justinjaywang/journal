@@ -9,7 +9,7 @@ How do you lead a [simple life](http://zenhabits.net/simple-living-manifesto-72-
 What I value the most:
 
 - relationships, with family and close friends
-- creating things, be it design, music, art, websites
+- creating things—be it design, music, art, websites
 - eating healthy, delicious food
 - exercise, nature, and the outdoors
-- music
+- music, and the unreplicable sensation of enjoying a good song
