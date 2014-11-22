@@ -7,6 +7,7 @@ tags:
 - berkeley
 - vacation
 - point richmond
+- family
 ---
 
 ![Jen, the new graduate.](https://dl.dropbox.com/u/4291520/journal-images/jen-graduation.jpg)

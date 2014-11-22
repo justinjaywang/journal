@@ -6,6 +6,7 @@ tags:
 - joshua tree
 - palm springs
 - cooking
+- family
 ---
 
 Returned yesterday from a family vacation that Jen and I planned. We stayed at a hotel in downtown Palm Springs for three nights and explored nature at Joshua Tree National Park for two of the days.

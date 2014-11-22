@@ -6,6 +6,7 @@ tags:
 - oc
 - daily
 - thanksgiving
+- family
 ---
 
 I'm back home for Thanksgiving break. I flew back with Jen on Monday night and worked from home Tuesday and Wednesday.

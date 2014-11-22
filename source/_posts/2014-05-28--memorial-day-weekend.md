@@ -6,6 +6,7 @@ tags:
 - cooking
 - memorial day
 - oc
+- family
 ---
 
 ![A-Ma making zongzi.](https://dl.dropbox.com/u/4291520/journal-images/a-ma.jpg)

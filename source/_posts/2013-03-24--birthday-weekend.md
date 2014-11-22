@@ -5,6 +5,7 @@ tags:
 - food
 - emeryville
 - oakland
+- family
 ---
 
 I had a great weekend; Mom and Dad visited.

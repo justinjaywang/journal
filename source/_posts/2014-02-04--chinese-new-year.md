@@ -6,6 +6,7 @@ tags:
 - cooking
 - chinese new year
 - oc
+- family
 ---
 
 Jen and I spent the weekend down in SoCal with Mom. When I wasn't working, I was shooting hoops at the park, shopping, or cooking and eating.
