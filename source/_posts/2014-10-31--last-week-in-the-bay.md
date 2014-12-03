@@ -1,4 +1,4 @@
-title: Last week in the bay
+title: Last week in the Bay
 tags:
 - daily
 - food
