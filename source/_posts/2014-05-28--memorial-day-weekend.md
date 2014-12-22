@@ -9,8 +9,6 @@ tags:
 - family
 ---
 
-![A-Ma making zongzi.](https://dl.dropbox.com/u/4291520/journal-images/a-ma.jpg)
-
 Spent the long weekend plus Tuesday with family. Highlights:
 
 - Shooting hoops in the morning
