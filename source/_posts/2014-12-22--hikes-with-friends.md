@@ -9,6 +9,6 @@ Last week, I went hiking with Alisha at the [Laguna Coast Wilderness Park](http:
 
 ![](https://dl.dropbox.com/u/4291520/journal-images/laguna-coast-1.jpg)
 ![Laguna Coast Wilderness Park.](https://dl.dropbox.com/u/4291520/journal-images/laguna-coast-2.jpg)
-![Loitering around the neighborhood with Josh.](https://dl.dropbox.com/u/4291520/journal-images/josh.jpg)
+![Josh.](https://dl.dropbox.com/u/4291520/journal-images/josh.jpg)
 
 Other than that, I've just been walking and grocery shopping with Mom, cooking, and working on projects.
