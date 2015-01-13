@@ -27,7 +27,6 @@ Returned yesterday from a family vacation that Jen and I planned. We stayed at a
 ![Jen on Ryan Mountain.](https://dl.dropbox.com/u/4291520/journal-images/palm-joshua-5.jpg)
 ![Joshua trees.](https://dl.dropbox.com/u/4291520/journal-images/palm-joshua-6.jpg)
 ![Cholla Cactus Garden.](https://dl.dropbox.com/u/4291520/journal-images/palm-joshua-7.jpg)
-![Phở after a long day.](https://dl.dropbox.com/u/4291520/journal-images/palm-joshua-8.jpg)
 
 ---
 

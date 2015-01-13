@@ -17,7 +17,7 @@ Activities:
 - I met up with Byron and Tiffany in Tustin later that afternoon
 - our family had Christmas dinner with Jenny's family at their house
 - I had Randy and Tiffany over on yesterday to watch a movie (*What's Eating Gilbert Grape*) and count down the new year
-- shopping with Jen on Boxing Day and picked up two cookbooks at Dollar Book Fair at the mall: a Szechuan cookbook from the 70s and Mark Bittman's *How to Cook Everything*
+- shopping with Jen on Boxing Day; picked up two cookbooks at Dollar Book Fair at the mall: a Szechuan cookbook from the 70s and Mark Bittman's *How to Cook Everything*
 - walking every morning with Mom and running sprints up the hill
 - looking at Christmas lights with Mom and Jen
 
