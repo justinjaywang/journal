@@ -8,6 +8,9 @@ tags:
 3. *Practice proper technique.*
 4. *Be honest.*
 5. *Be deliberate.*
+
+Have a purpose. Know what you want and go for it. In the past I've done things without really knowing why I was doing it or thinking through it.
+
 6. *Embrace discomfort.*
 7. *Know what you don’t know.*
 8. *Keep your composure.*

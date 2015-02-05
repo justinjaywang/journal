@@ -13,6 +13,7 @@ tags:
 - focus on what's important to me and get my priorities in order: family, friends, relationships, etc. music, exercise, nature, wanting less stuff and enjoying what you have, doing things that are sustainable
 - rules for living to guide the rest of my life
 - projects: Trove prototype, journal, llllyrics, monograms, lists, photos – ongoing projects that I'll have the rest of my life
+- reading: about zen (Zen Habits), Elements of Typographic Style, and Fresh Off the Boat
 - trip to Philippines to gain perspective
 - take lots of pictures
 - take lots of long walks, hikes
