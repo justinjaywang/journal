@@ -19,3 +19,6 @@ tags:
 - take lots of long walks, hikes
 - hang out with old friends
 - learn to appreciate what I have
+
+- become more self aware
+- come up with a plan for growth: my growth model

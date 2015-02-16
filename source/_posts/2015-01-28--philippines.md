@@ -22,27 +22,24 @@ The journey to the Philippines took over a full day, and involved stops in Taipe
 
 For dinner, we ate lechón belly with puso (hanging rice) and a glass of Coke. More wandering around after dinner. The scene was surreal. By then, the sun had gone down and the streets became the setting for one huge rave. I made it out, but not without a paint-covered face to show for it. The final stop of the night was karaoke, which was the highlight of the entire day. At midnight, we rode a jeepney back to City Lights and they walked me to the gate.
 
-![The parade.](https://dl.dropbox.com/u/4291520/journal-images/philippines-3.jpg)
-![Making our way through the crowded streets.](https://dl.dropbox.com/u/4291520/journal-images/philippines-4.jpg)
-![Paint-covered Sinulog-goers.](https://dl.dropbox.com/u/4291520/journal-images/philippines-5.jpg)
+![Making our way through the crowded streets.](https://dl.dropbox.com/u/4291520/journal-images/philippines-3.jpg)
+![Paint-covered Sinulog-goers.](https://dl.dropbox.com/u/4291520/journal-images/philippines-4.jpg)
 
 **Monday**—Walked around one of Cebu's giant malls, Ayala. Shot some hoops downstairs. For dinner, we had some more Filipino cuisine: crispy pata, mongo soup, and kare-kare.
 
 **Tuesday**—Dad and I took a short trip to the recently-opened CallTek office in [General Santos](http://en.wikipedia.org/wiki/General_Santos). Lunch at a café near the hotel, consisting of Filipino fare: tuna sisig, chicken adobo, and pinakbet. Afterwards, we scoured the malls, looking for furniture and appliances for the new office. Dinner: crab and grilled tuna belly.
 
-![GenSan's main highway.](https://dl.dropbox.com/u/4291520/journal-images/philippines-6.jpg)
-![Riding on a tricycle, GenSan's primary mode of public transport.](https://dl.dropbox.com/u/4291520/journal-images/philippines-7.jpg)
-![Tuna sisig, chicken adobo, and pinakbet.](https://dl.dropbox.com/u/4291520/journal-images/philippines-8.jpg)
+![GenSan's main highway.](https://dl.dropbox.com/u/4291520/journal-images/philippines-5.jpg)
+![Riding on a tricycle, GenSan's primary mode of public transport.](https://dl.dropbox.com/u/4291520/journal-images/philippines-6.jpg)
 
 **Wednesday**—In the early morning, I met some more company people over breakfast at McDonald's—they're over in GenSan training new employees. We also had dinner together, a seafood feast at Tiongson Arcade: grilled tuna jaw, tuna roe, fried calamari, lechón kawali with julienned green mango, and shrimp sinigang.
 
-![](https://dl.dropbox.com/u/4291520/journal-images/philippines-9.jpg)
-![Seafood at Tiongson Arcade.](https://dl.dropbox.com/u/4291520/journal-images/philippines-10.jpg)
-![More karaoke, at the mall after dinner.](https://dl.dropbox.com/u/4291520/journal-images/philippines-11.jpg)
+![Seafood at Tiongson Arcade. The tuna jaw was especially good.](https://dl.dropbox.com/u/4291520/journal-images/philippines-7.jpg)
+![More karaoke, at the mall after dinner.](https://dl.dropbox.com/u/4291520/journal-images/philippines-8.jpg)
 
 **Thursday**—Got breakfast with Shontel, Aubrey, Maegan, and Cathy and hung out at their place afterwards before heading on a flight back to Cebu.
 
-![](https://dl.dropbox.com/u/4291520/journal-images/philippines-12.jpg)
+![Clowning around with Cathy and company.](https://dl.dropbox.com/u/4291520/journal-images/philippines-9.jpg)
 
 **Friday**—Ran some errands in the morning with Dad. I played volleyball again in the afternoon. I then treated to dinner the people who took care of me during Sinulog—Derek, Lance, Honey, Xyza, Asha, Angel, Nel, Bless, and Linda.
 
