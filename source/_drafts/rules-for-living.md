@@ -5,7 +5,7 @@ tags:
 
 1. *Do things the right way.*
 2. *Do things with style.*
-3. *Practice proper technique.*
+3. *Do things you should..*
 4. *Be honest.*
 5. *Be deliberate.*
 
