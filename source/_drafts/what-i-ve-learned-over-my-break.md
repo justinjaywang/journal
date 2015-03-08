@@ -29,3 +29,8 @@ tags:
 
 - have more of a plan for my career, more deliberate in my actions
 - decision to live as an artist; do work you love, that's purposeful during the day. during nights, weekends, create things on the side
+
+- I made the difficult decision to follow my intuition
+- allow myself time and space to explore what it is that's my true purpose in my life
+
+- what is my true purpose?
