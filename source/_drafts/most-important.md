@@ -11,3 +11,5 @@ How do you lead a [simple life](http://zenhabits.net/simple-living-manifesto-72-
 - eating and cooking healthy, delicious food
 - exercise, nature, and the outdoors
 - music, and the emotions it can elicit
+
+I'd be happy with a job that lets me have the energy to create things when I get home from work. I want to work with people I like.
