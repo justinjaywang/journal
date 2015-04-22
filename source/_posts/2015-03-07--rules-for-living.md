@@ -1,4 +1,4 @@
-title: Rules for living
+title: Rules for Living
 tags:
   - reflection
 date: 2015-03-07 19:50:48
@@ -13,6 +13,6 @@ date: 2015-03-07 19:50:48
 7. Know what you don’t know.
 8. Keep your composure.
 9. Mostly do things that are sustainable.
-10. Never let anyone else slow you down.
-11. Never feel sorry for yourself.
+10. Don't let anyone else slow you down.
+11. Don't feel sorry for yourself.
 12. Love what you do.

@@ -1,0 +1,68 @@
+title: Thoughts from Chengdu
+tags: 
+  - reflection
+  - food
+  - chengdu
+date: 2015-04-20 09:28:26
+---
+
+It didn't occur to me that so many websites would be blocked, and it caught me offguard a little when I first arrived. I felt helpless, without being able to use some of the services I normally use—Google (maps, inbox, search), Twitter, Facebook.
+
+Along the same lines, having to get around in a foreign place without the use of a smartphone was a crutch. Now, though, I can better appreciate the value technology provides to my life on a daily basis.
+
+**Manners** in Chengdu are, well, different than they are in America. It was pretty noticeable. People there don't cover their mouths when they cough. And seriously, they hock loogies like no other—everywhere you turn, there's someone coughing loudly and spitting out phlegm onto the ground, in one fluid sequence. 
+
+In general, I found Chinese people to be very pushy also. If you're waiting in line, for instance, they're not afraid to just step in front of you. It's a me-first mentality. They drive the same way, too.
+
+Even once I got to Taiwan, I could tell Chinese from Taiwanese just by subtle differences in their manners.
+
+**Seeing** design artifacts from the Jinsha Ruins, of a culture that flourished over 3000 years ago, was pretty remarkable. Art doesn't get better, maybe. Only the context changes.
+
+Visiting Du Fu's Thatched Cottage was interesting, too. I read about some of China's past artists and poets, and it made me wonder if it was easier to live life as an artist back then than it is now.
+
+**Nothing can compare** to the [experience](https://youtu.be/OQSNhk5ICTI) of being amidst nature on such a grand scale, such as at Jiuzhaigou. Truly magical. Especially the waterfalls. But it was hard to be fully immersed when there were thousands of Chinese tourists there also, bustling around and being loud. To be deeply engaged in an activity, you need time and space.
+
+On one hand, it's nice that the park is accessible to visitors—after all, I got to see it. But opening up Jiazhaigou, like any nature reserve, just means its eventual destruction, and that makes me sad. Roads and walkways are built, buses and pollution are brought in. Inevitably, people will leave trash and stupidly throw coins into the lakes. Waste becomes part of the environment.
+
+![This makes me sad.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-17.jpg)
+
+**It's important** to enjoy who you work with (this seems to be a common theme during my travels), and might be the key for me to happy in a career. During the Mount Qingcheng retreat, Randy and I got to know some of Robert's co-workers, and it was definitely the most fun leg of the entire trip.
+
+We got along really well with them, especially the ones around our age. One of the girls, in particular, I got along with especially well. Hanging out with her was natural, like we were already friends. She was energetic, upbeat, and youthful, and reminded of Akina in a lot of ways. I think someone like that would be good for me, to complement my more reserved personality.
+
+**I loved** getting out and hiking Back Mountain (one of the two peaks of Mount Qingcheng) with Jules and Quentin. The two French guys and I split up from the rest of the group and got to go at a quick pace. It felt wonderful to stretch my legs and get my heart rate up, and put me in a good mood the rest of the day. The outdoors and being active are still priorities for me.
+
+**I got to see** the diversity of Chinese people firsthand. It's easy to underestimate just how huge the country is, both in size and population. On the Jiuzhaigou tour alone, we met people from a bunch of different provinces—Guangdong, Jiangsu, Beijing. And just walking around, I saw people from a lot of different ethnic groups, too. Growing up in America, you tend to see only certain types of Asians, which are really just a small subset of the total population.
+
+**The food** lived up to the hype. True to form, much of it was numbing and spicy. But it was all so good, and truly unique and special. Some of the foods that left an impression on me:
+
+- pao cai—sweet, sour, salty, spicy, with just the right amount of crunch
+- [fuqi feipian](http://en.wikipedia.org/wiki/Fuqi_feipian)
+- mei cai kou rou
+- pig's brain—I had it during spicy hot pot, and it was delicious; very tender
+- brined bamboo shoots
+- pork strips and red pepper in chili oil
+- smoked fish
+- braised daikon
+- red-cooked gluten with celery strips, shiitake, and chili pepper
+- sliced pork with marinated in fermented beans, chili oil
+- shoestring potatoes and green bell peppers
+- wood ear mushrooms with pepperoncini
+- wood ear mushrooms with sliced cucumber (a lot of dishes had wood ear)
+- cabbage—a variety with a softer crunch and sweeter taste
+- green beans—a more tender variety
+- clay pot cauliflower
+- lotus root and other liang ban in sesame chili oil
+- dandan noodles—preserved vegetables, minced pork, chili oil, scallions, peanuts
+
+![Dinner the first night: cucumber, water-cooked innards, braised daikon, and something else.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-1.jpg)
+![Lunch with Randy's relatives. My favorite dishes were wood ear mushrooms with pepperoncini and fuqi feipian.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-4.jpg)
+![Mapo tofu (top) and mei cai kou rou (bottom).](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-3.jpg)
+![At a rest stop, on the way to Jiuzhaigou.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-5.jpg)
+![Red-cooked beef noodle soup at Jiuzhaigou. I ate this well even inside a national park.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-6.jpg)
+![A bamboo-themed restaurant at the Panda Reserve. The one with the leaves was cooked in a vinegar brine and was especially delicious.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-7.jpg)
+![Even random restaurants were gourmet and the flavors spot-on, like this one at Mount Qincheng.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-8.jpg)
+![Dinner the last night.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-9.jpg)
+![Dandan noodles with pao cai on the side.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-11.jpg)
+
+**This trip** for me was a once-in-a-lifetime opportunity to see a city I would have otherwise probably never gone to—after all, Chengdu's not the first city you think of when you want to visit China. I'm lucky to have had it, thanks to Randy and his family.

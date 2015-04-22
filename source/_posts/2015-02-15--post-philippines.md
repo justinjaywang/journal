@@ -1,5 +1,9 @@
 title: Post-Philippines
-tags: "food, cooking, daily"
+tags: 
+  - food
+  - cooking
+  - daily
+  - philippines
 date: 2015-02-15 21:46:12
 ---
 

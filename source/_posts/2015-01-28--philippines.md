@@ -3,6 +3,7 @@ tags:
   - daily
   - vacation
   - food
+  - philippines
 date: 2015-01-28 13:44:42
 ---
 

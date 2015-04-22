@@ -1,8 +1,8 @@
 title: Chinese New Year
 date: 2015-03-01 08:36:10
 tags:
-- daily
-- food
+  - daily
+  - food
 ---
 
 I finished my portfolio. Thank goodness. I'd been working solely on it for the last two weeks.
