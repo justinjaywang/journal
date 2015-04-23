@@ -8,7 +8,7 @@ date: 2015-04-23 07:36:17
 
 Food was the main theme. I had originally planned on stopping by Taipei for a just few days on the way back to America from Chengdu, but I suggested that Mom come and spend time with me there, where we could bond over food—eat some of our favorite dishes, try new ones, and get inspired.
 
-The food I had in Chengdu was incredible, but Taiwanese cuisine is still my absolute favorite. It's comfort food, after all. This time around, I especially enjoyed Pacific saury—I prefer fried, and eaten whole (including the head and bittersweet-tasting innards) over rice. I also discovered the joys of eating guava out-of-hand. The inner portion, where the seeds are, is the best part—sweet, pungent, slimy, and slightly salty, in a good way. The rest of the favorite things I ate:
+Chengdu food was incredible, but Taiwanese is still my absolute favorite. It's comfort food, after all. This time around, I especially enjoyed Pacific saury—I prefer fried, and eaten whole (including the head and bittersweet-tasting innards) over rice. I also discovered the joys of eating guava out-of-hand. The inner portion, where the seeds are, is the best part—sweet, pungent, slimy, and slightly salty, in a good way. The rest of the favorite things I ate:
 
 - king oyster mushroom
 - stinky tofu, with pao cai
