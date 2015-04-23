@@ -59,13 +59,13 @@ One girl in particular was really energetic, upbeat, and liked to joke around, a
 - dandan noodles—preserved vegetables, minced pork, chili oil, scallions, peanuts
 
 ![Dinner the first night: cucumber, water-cooked innards, braised daikon, and something else.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-1.jpg)
-![Lunch with Randy's relatives. My favorite dishes were wood ear mushrooms with pepperoncini and fuqi feipian.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-4.jpg)
+![Lunch with Randy's relatives. My favorite dishes were wood ear mushrooms with pepperoncini and fuqi feipian.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-2.jpg)
 ![Mapo tofu (top) and mei cai kou rou (bottom).](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-3.jpg)
-![At a rest stop, on the way to Jiuzhaigou.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-5.jpg)
-![Red-cooked beef noodle soup at Jiuzhaigou. I ate this well even inside a national park.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-6.jpg)
-![A bamboo-themed restaurant at the Panda Reserve. The one with the leaves was cooked in a vinegar brine and was especially delicious.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-7.jpg)
-![Even random restaurants were gourmet and the flavors spot-on, like this one at Mount Qincheng.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-8.jpg)
-![Dinner the last night.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-9.jpg)
-![Dandan noodles with pao cai on the side.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-11.jpg)
+![At a rest stop, on the way to Jiuzhaigou.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-4.jpg)
+![Red-cooked beef noodle soup at Jiuzhaigou. I ate this well even inside a national park.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-5.jpg)
+![A bamboo-themed restaurant at the Panda Reserve. The one with the leaves was cooked in a vinegar brine and was especially delicious.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-6.jpg)
+![Even random restaurants were gourmet and the flavors spot-on, like this one at Mount Qincheng.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-7.jpg)
+![Dinner the last night.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-8.jpg)
+![Dandan noodles with pao cai on the side.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-9.jpg)
 
 **This trip** for me was a once-in-a-lifetime opportunity to see a city I would have otherwise probably never gone to—after all, Chengdu's not the first city you think of when you want to visit China. I'm lucky to have had it, thanks to Randy and his family.

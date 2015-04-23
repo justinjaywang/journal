@@ -14,18 +14,18 @@ date: 2015-02-15 21:46:12
 - fried dried fish that I brought back from the Philippines
 - rice congee with chicken
 - roasted sweet potato
-- *hongshao rou*
+- hongshao rou
 - celery and wood ear mushroom cold dish
 - cauliflower
-- cucumber *xiao cai*, cut into matchsticks
+- cucumber xiao cai, cut into matchsticks
 - tomato and cabbage with caramelized onions
 - dry-fried green beans, with ground pork
 - fried tofu with scallions
 - green bell pepper
 - beef shank and cat ear noodle soup
 - bibimbap using the clay bowl my old roommates gave to me
-- *huagua* pickles
-- *lu rou*
+- huagua pickles
+- lu rou
 - asparagus
 - soy-braised carrot, daikon, napa, potato
 - omelette with salted turnip
