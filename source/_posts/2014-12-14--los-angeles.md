@@ -10,4 +10,4 @@ Mom and I visited LA on Sunday. We took the Metrolink to Union Station, which is
 
 I've been enjoying cooking more than ever. In the last couple weeks, I've made beets (roasted), chicken soup, stir-fried shiitake mushrooms, Brussels sprouts (both sautéed and roasted), *lu rou fan*, coleslaw, and beef short rib stew.
 
-I finished another personal project, too, called [Lists](http://lists.justinjaywang.com/). As of today, I've been at work starting a new one.
+I finished another personal project, too, called Lists. As of today, I've been at work starting a new one.

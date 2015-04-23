@@ -22,7 +22,7 @@ Visiting Du Fu's Thatched Cottage was interesting, too. I read about some of Chi
 
 On one hand, it's nice that the park is accessible to visitors—after all, I got to see it. But opening up Jiazhaigou, like any nature reserve, just means its eventual destruction, and that makes me sad. Roads and walkways are built, buses and pollution are brought in. Inevitably, people will leave trash and stupidly throw coins into the lakes. Waste becomes part of the environment.
 
-![This makes me sad.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-17.jpg)
+![This makes me sad.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-trash.jpg)
 
 **It's important** to enjoy who you work with (this seems to be a common theme during my travels), and might be the key for me to happy in a career. During the Mount Qingcheng retreat, Randy and I got to know some of Robert's co-workers—it helped that they were around our age—and it was definitely the most fun leg of the entire trip.
 
