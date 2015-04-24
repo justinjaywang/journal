@@ -35,6 +35,6 @@ Dishes I've been making:
 - pickled radish
 - salted turnip with egg and cilantro
 - boiled peanuts with star anise and ginger
-- *huagua* pickles
+- hua gua pickles
 - stir-fried iceberg lettuce
 - stir-fried chives
