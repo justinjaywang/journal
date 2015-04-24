@@ -68,4 +68,4 @@ One girl in particular was really energetic, upbeat, and liked to joke around, a
 ![Dinner the last night.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-8.jpg)
 ![Dandan noodles with pao cai on the side.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-9.jpg)
 
-**This trip** for me was a once-in-a-lifetime opportunity to see a city I would have otherwise probably never gone to—after all, Chengdu's not the first city you think of when you want to visit China. I'm lucky to have had it.
+**This was a once-in-a-lifetime opportunity** to see a city I would have otherwise probably never gone to—after all, Chengdu's not the first city you think of when you want to visit China. I'm lucky to have had it, thanks to Randy and his family.
