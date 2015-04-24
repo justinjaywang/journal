@@ -20,7 +20,7 @@ Visiting Du Fu's Thatched Cottage was interesting, too. I read about some of Chi
 
 **Nothing can compare** to the [experience](https://youtu.be/OQSNhk5ICTI) of being amidst nature on such a grand scale, such as at Jiuzhaigou. Truly magical. Especially the waterfalls. But it was hard to be fully immersed when there were thousands of Chinese tourists there also, bustling around and being loud. To be deeply engaged in an activity, you really need time and space.
 
-On one hand, it's nice that the park is accessible to visitors—after all, I got to see it. But opening up Jiazhaigou, like any nature reserve, just means its eventual destruction, and that makes me sad. Roads and walkways are built, buses and pollution are brought in. Inevitably, people will leave trash and stupidly throw coins into the lakes. Waste becomes part of the environment.
+On one hand, it's nice that the park is accessible to visitors—after all, I got to see it. But opening up Jiazhaigou, like any nature reserve, just means its eventual destruction, and that makes me sad. Roads and walkways are built. Buses and pollution are brought in. And inevitably, people will leave their trash (and even throw coins into the lakes).
 
 ![This makes me sad.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-trash.jpg)
 
