@@ -24,7 +24,7 @@ On one hand, it's nice that the park is accessible to visitors—after all, I go
 
 ![This makes me sad.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-trash.jpg)
 
-**It's important** to enjoy who you work with (this seems to be a common theme during my travels), and might be the key for me to happy in a career. During the Mount Qingcheng retreat, Randy and I got to know some of Robert's co-workers—it helped that they were around our age—and it was definitely the most fun leg of the entire trip.
+**It's important** to enjoy who you work with (this seems to be a common theme during my travels), and might be the key for me to be happy in a career. During the Mount Qingcheng retreat, Randy and I got to know some of Robert's co-workers—it helped that they were around our age—and it was definitely the most fun leg of the entire trip.
 
 One girl in particular was really energetic, upbeat, and liked to joke around, and I got along especially well with her. Hanging out was natural, like we were already friends. I think someone like that would be a good fit for me, to complement my more reserved personality.
 
