@@ -64,7 +64,7 @@ One girl in particular was really energetic, upbeat, and liked to joke around, a
 ![At a rest stop, on the way to Jiuzhaigou.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-4.jpg)
 ![Red-cooked beef noodle soup at Jiuzhaigou. I ate this well even inside a national park.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-5.jpg)
 ![A bamboo-themed restaurant at the Panda Reserve. The one with the leaves was cooked in a vinegar brine and was especially delicious.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-6.jpg)
-![Even random restaurants were gourmet and the flavors spot-on, like this one at Mount Qincheng.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-7.jpg)
+![Even random restaurants were gourmet and the flavors spot-on, like this one at Mount Qingcheng.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-7.jpg)
 ![Dinner the last night.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-8.jpg)
 ![Dandan noodles with pao cai on the side.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-9.jpg)
 
