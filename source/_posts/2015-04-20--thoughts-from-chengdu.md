@@ -6,7 +6,7 @@ tags:
 date: 2015-04-20 09:28:26
 ---
 
-Internet censorship caught be offguard a little. It didn't occur to me until I got there just how many websites were blocked. I felt helpless, being without a lot of the services I normally use—Google (maps, inbox, search), Dropbox, Twitter, Facebook. Now, though, I can much better appreciate the value these services provide on a daily basis.
+Internet censorship caught me offguard a little. It didn't occur to me until I got there just how many websites were blocked. I felt helpless, being without a lot of the services I normally use—Google (maps, inbox, search), Dropbox, Twitter, Facebook. Now, though, I can much better appreciate the value these services provide on a daily basis.
 
 **Manners** in Chengdu are, well, different than they are in America. It was pretty noticeable. People there don't cover their mouths when they cough. And seriously, they hock loogies like no other—everywhere you turn, there's someone coughing loudly and spitting out phlegm onto the ground, in one fluid sequence. 
 
