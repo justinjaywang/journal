@@ -1,11 +1,13 @@
 title: Thoughts on work
-tags: "reflection, work"
+tags:
+- reflection
+- work
 date: 2015-04-30 14:54:14
 ---
 
 I used to think I'd be OK just working a standard 8 to 5 job, and having time on evenings and weekends to do what I actually want. My mindset was: *work hard, get through school, find a job, and you'll be happy*. As long as I earned a stable income, a job was just a job.
 
-That, as it turns out, was a very limited outlook. Happiness, after all, lies in your day-to-day experience. How you're spending time on a routine workday matters just as much as when you're on vacation. My mindset now is: *find a job you love*. This means doing work that's meaningful and rewarding, and with people I like being around.
+As it turns out, that was a very narrow outlook. Happiness, after all, lies in your day-to-day experience. How you're spending time on a routine workday matters just as much as when you're on vacation. My mindset now is: *find a job you love*. This means doing work that's meaningful and rewarding, and with people I like being around.
 
 I have a lot of skills and interests. But I realize that I can't pursue everything I'm interested in—there's just not enough time. The way our society is set up, it's optimal to choose one profession, and learn to do it well.
 
