@@ -3,7 +3,6 @@ date: 2013-10-11
 tags:
 - daily
 - food
-- cooking
 - oakland
 - point richmond
 ---

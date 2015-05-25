@@ -1,9 +1,9 @@
 title: Michael's wedding
 date: 2013-07-30
 tags:
-- weddings
 - park city
 - vacation
+- family
 ---
 
 ![View from the top of a hike in Park City.](https://dl.dropbox.com/u/4291520/journal-images/michael-wedding-hike.jpg)

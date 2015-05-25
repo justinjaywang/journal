@@ -3,7 +3,6 @@ date: 2014-02-04
 tags:
 - daily
 - food
-- cooking
 - chinese new year
 - oc
 - family

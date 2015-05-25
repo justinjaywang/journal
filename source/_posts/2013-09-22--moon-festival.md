@@ -2,7 +2,6 @@ title: Moon Festival
 date: 2013-09-22
 tags:
 - daily
-- projects
 - food
 ---
 

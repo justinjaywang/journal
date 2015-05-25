@@ -3,7 +3,6 @@ date: 2014-10-17 13:34:01
 tags:
 - daily
 - food
-- cooking
 - marin
 
 ---

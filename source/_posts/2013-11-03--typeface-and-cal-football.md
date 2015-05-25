@@ -3,7 +3,6 @@ date: 2013-11-03
 tags:
 - daily
 - food
-- cooking
 ---
 
 ![Cal football game.](https://dl.dropbox.com/u/4291520/journal-images/cal-football.jpg)

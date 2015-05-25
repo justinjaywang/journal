@@ -2,7 +2,6 @@ title: Justin time
 date: 2013-10-11
 tags:
 - reflection
-- goals
 ---
 
 As it turns out, I decided not to go out to Missouri Lounge with Nina, Paul, and Phoebe after work. Fridays nights are sacred; they're Justin time. No offense, but I feel like I could be doing something more productive. This trend dates back to my college days, when I almost always regretted going to parties and would have rather have spent the time improving my skills, such as playing guitar. I think I'm just different in this way.

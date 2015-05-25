@@ -5,7 +5,6 @@ tags:
 - daily
 - joshua tree
 - palm springs
-- cooking
 - family
 ---
 

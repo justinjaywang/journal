@@ -3,7 +3,6 @@ date: 2014-05-28
 tags:
 - daily
 - food
-- cooking
 - memorial day
 - oc
 - family

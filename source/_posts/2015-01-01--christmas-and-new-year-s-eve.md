@@ -1,8 +1,9 @@
 title: "Christmas and New Year's Eve"
 tags:
   - daily
-  - laguna hills
   - oc
+  - family
+  - movies
 date: 2015-01-01 10:20:47
 ---
 

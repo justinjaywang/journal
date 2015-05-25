@@ -3,7 +3,6 @@ date: 2013-04-28
 tags:
 - daily
 - food
-- cooking
 - movies
 - emeryville
 ---

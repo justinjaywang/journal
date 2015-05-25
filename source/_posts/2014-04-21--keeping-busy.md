@@ -3,7 +3,6 @@ date: 2014-04-21
 tags:
 - daily
 - food
-- cooking
 - san francisco
 ---
 

@@ -1,7 +1,6 @@
 title: Returning home
 tags:
   - reflection
-  - goals
 date: 2014-10-19 15:22:03
 ---
 

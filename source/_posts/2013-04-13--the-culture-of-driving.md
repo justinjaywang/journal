@@ -2,7 +2,6 @@ title: The culture of driving
 date: 2013-04-13
 tags:
 - reflection
-- driving
 ---
 
 In college, I biked the North Berkeley hills to campus. I made my way around town by bike or foot, and occasionally public transit. I was against cars and resented having our environments shaped by them. I never thought that in a few short years, I'd end up having to drive a car to work every day.

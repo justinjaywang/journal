@@ -2,7 +2,6 @@ title: Apartment
 date: 2013-04-07
 tags:
 - daily
-- housing
 ---
 
 ![The courtyard at the Bridgewater apartment complex.](https://dl.dropbox.com/u/4291520/journal-images/bridgewater.jpg)

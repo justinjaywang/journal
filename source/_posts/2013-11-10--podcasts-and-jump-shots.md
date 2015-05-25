@@ -3,7 +3,6 @@ date: 2013-11-10
 tags:
 - daily
 - food
-- cooking
 - point richmond
 - berkeley
 ---

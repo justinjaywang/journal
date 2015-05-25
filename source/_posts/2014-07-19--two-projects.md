@@ -3,7 +3,6 @@ date: 2014-07-19
 tags:
 - daily
 - food
-- projects
 - movies
 - emeryville
 - san francisco

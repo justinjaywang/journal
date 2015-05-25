@@ -3,7 +3,6 @@ date: 2013-10-20
 tags:
 - daily
 - food
-- cooking
 - berkeley
 - san francisco
 - oakland

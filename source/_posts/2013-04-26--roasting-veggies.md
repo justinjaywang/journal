@@ -3,7 +3,6 @@ date: 2013-04-26
 tags:
 - daily
 - food
-- cooking
 ---
 
 Things I've been into this week:

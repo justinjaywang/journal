@@ -1,7 +1,6 @@
 title: Big changes
 date: 2013-01-25
 tags:
-- work
 - daily
 ---
 

@@ -3,7 +3,6 @@ date: 2014-03-04
 tags:
 - daily
 - food
-- cooking
 ---
 
 I've been working on my portfolio this past week; had a goal to finish by the end of the weekend and succeeded. It rained during the week, so there was no soccer or basketball.

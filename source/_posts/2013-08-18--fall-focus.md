@@ -2,7 +2,6 @@ title: Fall = focus
 date: 2013-08-18
 tags:
 - reflection
-- goals
 ---
 
 With summer essentially over, I plan to use these upcoming fall months to really focus on self-improvment.

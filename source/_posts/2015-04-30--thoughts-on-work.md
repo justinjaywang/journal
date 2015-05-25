@@ -1,7 +1,6 @@
 title: Thoughts on work
 tags:
 - reflection
-- work
 date: 2015-04-30 14:54:14
 ---
 

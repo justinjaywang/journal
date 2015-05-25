@@ -3,7 +3,6 @@ date: 2014-01-07
 tags:
 - daily
 - food
-- cooking
 ---
 
 ![Driving thought the Grapevine back up to the Bay.](https://dl.dropbox.com/u/4291520/journal-images/grapevine-2.jpg)

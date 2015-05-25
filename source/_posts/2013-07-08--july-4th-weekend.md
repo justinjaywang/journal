@@ -4,7 +4,6 @@ tags:
 - daily
 - vacation
 - food
-- cooking
 - oc
 - san diego
 - july 4th

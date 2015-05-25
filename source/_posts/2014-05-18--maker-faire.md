@@ -3,7 +3,6 @@ date: 2014-05-18
 tags:
 - daily
 - food
-- projects
 - san mateo
 - san francisco
 ---

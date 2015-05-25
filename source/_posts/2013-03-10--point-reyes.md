@@ -2,7 +2,6 @@ title: Point Reyes
 date: 2013-03-10
 tags:
 - point reyes
-- vacation
 ---
 
 ![Akina jumping.](https://dl.dropbox.com/u/4291520/journal-images/akina-jumping.jpg)

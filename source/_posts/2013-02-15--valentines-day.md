@@ -1,8 +1,7 @@
 title: Valentine's Day
 date: 2013-02-15
 tags:
-- valentines day
-- cooking
+- valentines
 - food
 ---
 

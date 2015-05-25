@@ -2,9 +2,8 @@ title: Post-Thanksgiving
 date: 2013-12-06
 tags:
 - food
-- cooking
 - daily
-- reading
+- books
 ---
 
 I walked to Berkeley Bowl to get groceries earlier this week. I got some new ingredients to try in my cooking: rutabaga, parsnips, leeks, kale, and apple.

@@ -3,7 +3,6 @@ date: 2014-03-24
 tags:
 - daily
 - food
-- cooking
 - emeryville
 - movies
 - san francisco

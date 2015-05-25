@@ -2,7 +2,8 @@ title: Going home
 date: 2013-12-21 
 tags:
 - daily
-- cooking
+- point richmond
+- emeryville
 ---
 
 ![Driving through the Grapevine on our way home.](https://dl.dropbox.com/u/4291520/journal-images/grapevine.jpg)

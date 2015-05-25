@@ -1,7 +1,6 @@
 title: BPM for iPhone
 date: 2013-07-14
 tags:
-- projects
 - reflection
 ---
 

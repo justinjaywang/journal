@@ -3,7 +3,6 @@ date: 2013-12-15
 tags:
 - daily
 - food
-- cooking
 - reflection
 - music
 ---

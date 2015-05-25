@@ -5,7 +5,6 @@ tags:
 - food
 - san francisco
 - oakland
-- cooking
 ---
 
 ![Ma po tofu from Mission Chinese Food.](https://dl.dropbox.com/u/4291520/journal-images/mission-chinese-food.jpg)

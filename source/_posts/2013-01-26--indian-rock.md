@@ -1,7 +1,6 @@
 title: Indian Rock
 date: 2013-01-26
 tags:
-- indian rock
 - berkeley
 - daily
 - food

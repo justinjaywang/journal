@@ -2,7 +2,6 @@ title: Thanksgiving
 date: 2013-11-29
 tags:
 - food
-- cooking
 - oc
 - daily
 - thanksgiving

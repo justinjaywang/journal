@@ -4,7 +4,6 @@ tags:
 - daily
 - movies
 - food
-- cooking
 ---
 
 ![Salt Creek](https://dl.dropbox.com/u/4291520/journal-images/salt-creek-2.jpg)

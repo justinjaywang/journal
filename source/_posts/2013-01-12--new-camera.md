@@ -1,7 +1,6 @@
 title: New camera
 date: 2013-01-12
 tags:
-- photography
 - reflection
 ---
 
