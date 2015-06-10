@@ -8,7 +8,7 @@ tags:
 date: 2015-06-10 10:12:41
 ---
 
-I've been reading a lot of design books lately. I never got a formal design education, so I'm trying to be diligent about being a student of my craft.
+Lately, I've been reading a lot of design books. I never got a formal design education, so I'm trying to be diligent about being a student of my craft.
 
 A couple weeks ago, I read the comprehensive *Meggs' History of Graphic Design*. It's helpful, in any field, to put things in perspective historically. Trends are cyclical—the same things happen over and over again, just in different contexts.
 
