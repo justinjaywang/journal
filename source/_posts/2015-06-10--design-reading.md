@@ -1,0 +1,34 @@
+title: Design reading
+tags:
+  - food
+  - oc
+  - daily
+  - books
+  - reflection
+date: 2015-06-10 10:12:41
+---
+
+I've been reading a lot of design books lately. I never got a formal design education, so I'm trying to be diligent about being a student of my craft.
+
+A couple weeks ago, I read the comprehensive *Meggs' History of Graphic Design*. It's helpful, in any field, to put things in perspective historically. Trends are cyclical—the same things happen over and over again, just in different contexts.
+
+It's true that graphic design captures the zeitgeist of its era, and it was interesting to see which of the designs mentioned in the book have stood the test of time and which ones look dated, in a bad way.
+
+I also checked out a couple of information design books from the public library, *Envisioning Information* and *Beautiful Evidence* by Edward R. Tufte. He's a big proponent of content. If the numbers are boring, then you've got the wrong numbers. And clutter is a failure of design, not an attribute of information; but, visual problems shouldn't be fixed by sacrificing the resolution of the content.
+
+One chapter from *Beautiful Evidence* really got to me in particular. It talked about the inherent problems of PowerPoint presentations—good for the confidence of bad presenters (who either don't know what to say, or worse, don't really have anything of substance to say), but horrible as a means of communicating something to an audience.
+
+It's just that people see, think, and read all the time at intensities greater than watching bulleted list items appear one by one on slide sequences. No wonder I never learned anything from listening to those crappy, templated PowerPoints that teachers and students presented in school. I only ever learned by (1) reading the textbook or (2) practicing or doing.
+
+The issue is that PowerPoint presentations are used as a substitute for real thought. Smatterings of somewhat related words and phrases are certainly easier than writing full sentences.
+
+We've gotten to a place as a society where we no longer want to think. We just want to mindlessly consume. You see it on the Internet, in the form of short, 140-character bursts of opinion and endless click-bait articles. Everything is dumbed down for us. Time is rarely left for deep thought, which is required for meaningful communication.
+
+---
+When not reading, I've been working on building my personal brand—I designed and coded up my homepage and portfolio, and created themes for documents and presentations. I've just begun to reach out to people who've contacted me in the past about freelance work that I had to turn down while I was working on other projects.
+
+For exercise, I've been going on walks (and sometimes uphill sprints) along the trails behind El Conejo Park and working on my jump shot in the side yard.
+
+For food, I've been mostly cooking, still—dishes like braised gluten and shiitake, pork belly, slow-roasted chicken, carrot and potato fries, omelettes, and Asian greens from the farmer's market. I also got a burger (not that good) at dinner with Brian, Randy, and Tariq for Brian's birthday. Jen was in town this past weekend. She, Mom, and I went out to lunch with Tiffany and her mom at Hsi Lai Temple.
+
+For entertainment, I've been watching the NBA playoffs with Mom. I get so emotionally invested in the games, but I'm trying not to. I take Warriors losses pretty hard, in part because I feel like I've grown up with this team. They're down 2–1 right now in the finals. We'll see how they respond.
