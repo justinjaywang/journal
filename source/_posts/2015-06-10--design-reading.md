@@ -8,11 +8,9 @@ tags:
 date: 2015-06-10 10:12:41
 ---
 
-Lately, I've been reading a lot of design books. I never got a formal design education, so I'm trying to be diligent about being a student of my craft.
+I've been reading a lot of design books lately. It started when I was in San Jose and would go to the library to browse books for inspiration. Now I can't get enough.
 
-A couple weeks ago, I read the comprehensive *Meggs' History of Graphic Design*. It's helpful, in any field, to put things in perspective historically. Trends are cyclical—the same things happen over and over again, just in different contexts.
-
-It's true that graphic design captures the zeitgeist of its era, and it was interesting to see which of the designs mentioned in the book have stood the test of time and which ones look dated, in a bad way.
+A couple weeks ago, I read the comprehensive *Meggs' History of Graphic Design*. I never got a formal design education, so I wanted to get a solid foundation and put things in perspective historically. It was interesting to see which designs have stood the test of time and which designs look dated, in a bad way.
 
 I also checked out a couple of information design books from the public library, *Envisioning Information* and *Beautiful Evidence* by Edward R. Tufte. He's a big proponent of content. If the numbers are boring, then you've got the wrong numbers. And clutter is a failure of design, not an attribute of information; but, visual problems shouldn't be fixed by sacrificing the resolution of the content.
 
