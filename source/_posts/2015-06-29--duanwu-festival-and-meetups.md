@@ -12,6 +12,6 @@ date: 2015-06-29 21:36:08
 - tacos with Alex at Perla's
 - developers meetup in Venice; I wanted to see an apartment showing closer to downtown earlier in the day, so I made a day of it; I saw the La Brea Tar Pits, walked along Venice Beach, and had a really delicious lunch in Koreatown
 - baseball game with Tiffany; they now have a special Metrolink train for Angels games, so we took that
-- watching Community; I admit I'm not immune to distractions, but I don't mind as much any more; just trying to go with the flow
+- watching old episodes of *Community*; I admit I'm not immune to distractions, but I don't mind as much any more; just trying to go with the flow
 
-![Lunch in Koreatown: grilled mackerel pike.](https://dl.dropbox.com/u/4291520/journal-images/koreatown-lunch.jpg)
+![Lunch in Koreatown—grilled mackerel pike.](https://dl.dropbox.com/u/4291520/journal-images/koreatown-lunch.jpg)
