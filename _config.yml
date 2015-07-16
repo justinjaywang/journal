@@ -7,23 +7,26 @@ title: Justin Wang
 subtitle:
 description: Journal of Justin Wang
 author: Justin Wang
-email: hi@justinjaywang.com
-language: en-US
+language:
+- en
+timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://journal.justinjaywang.com
 root: /
 permalink: :year/:title/
-tag_dir: tag
-archive_dir: archive
-category_dir: category
-code_dir: downloads/code
 permalink_defaults:
 
 # Directory
 source_dir: source
 public_dir: public
+tag_dir: tag
+archive_dir: archive
+category_dir: category
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
 
 # Writing
 new_post_name: :year-:month-:day--:title.md # File name of new posts
@@ -37,29 +40,13 @@ relative_link: false
 highlight:
   enable: true
   line_number: true
+  auto_detect: true
   tab_replace:
 
 # Category & Tag
 default_category: uncategorized
 category_map:
 tag_map:
-
-# Archives
-## 2: Enable pagination
-## 1: Disable pagination
-## 0: Fully Disable
-archive: 1
-category: 1
-tag: 1
-
-# Server
-## Hexo uses Connect as a server
-## You can customize the logger format as defined in
-## http://www.senchalabs.org/connect/logger.html
-port: 7000
-server_ip: localhost
-logger: false
-logger_format: dev
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
@@ -73,19 +60,16 @@ time_format: H:mm:ss
 per_page: 10
 pagination_dir: page
 
-# Disqus
-disqus_shortname:
-
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
 theme: monk
-exclude_generator:
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: github
+  type: git
   repo: https://github.com/justinjaywang/journal.git
   branch: gh-pages
   message: updated site {{ now('YYYY-MM-DD HH:mm:ss') }}
+  
