@@ -2,6 +2,8 @@ title: Duanwu Festival and meetups
 tags:
   - daily
   - food
+  - los angeles
+  - oc
 date: 2015-06-29 21:36:08
 ---
 
