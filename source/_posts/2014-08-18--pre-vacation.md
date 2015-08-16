@@ -2,7 +2,6 @@ title: Pre-vacation
 date: 2014-08-18
 tags:
 - daily
-- cooking
 - point richmond
 - emeryville
 ---
