@@ -1,7 +1,6 @@
 title: Pre-New York
 tags:
   - daily
-  - reflection
 date: 2015-07-22 20:54:17
 ---
 
