@@ -1,6 +1,7 @@
 title: Thoughts from New York
 tags:
   - reflection
+  - new york
 date: 2015-08-30 17:15:42
 ---
 
