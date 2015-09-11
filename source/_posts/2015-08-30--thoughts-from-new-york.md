@@ -17,5 +17,3 @@ My least favorite part has been the mosquitos and the muggy weather. I get bit e
 The sheer urban-ness has made me crave space, quiet, and nature. Crowded streets, ambulance sirens at all hours, and hot piles of trash will do that to you.
 
 A lot of the people living here seem to be only temporary—young professionals who work hard for a handful of years, burn out, and then move to the suburbs. Or Cleveland. Living in New York is almost like a rite of passage.
-
-In California, you can't get a plastic bag. In New York, they double bag everything.
