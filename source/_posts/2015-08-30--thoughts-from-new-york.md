@@ -6,7 +6,7 @@ date: 2015-08-30 17:15:42
 ---
 
 
-The diversity of New York was one of the first things that struck me. It feels like the capital of the world, in a way. I never felt like I didn't belong.
+The diversity of New York was one of the first things that struck me. It feels like the capital of the world, in a way. You can meet people from anywhere here. As an Asian American, I never felt like I didn't belong.
 
 I absolutely love the walkability. It's been my favorite part, hands down. As a means of transport, as a form of exercise, and as an activity in and of itself. There's no better way to get a feel for the city. You can walk at all hours, too, without feeling weird like you would if you were to do it back home.
 
@@ -17,3 +17,7 @@ My least favorite part has been the mosquitos and the muggy weather. I get bit e
 The sheer urban-ness has made me crave space, quiet, and nature. Crowded streets, ambulance sirens at all hours, and hot piles of trash will do that to you.
 
 A lot of the people living here seem to be only temporary—young professionals who work hard for a handful of years, burn out, and then move to the suburbs. Or Cleveland. Living in New York is almost like a rite of passage.
+
+![Manhattan's Chinatown.](https://dl.dropbox.com/u/4291520/journal-images/new-york-chinatown.jpg)
+![Tompkins Square Park in the East Village.](https://dl.dropbox.com/u/4291520/journal-images/new-york-tompkins.jpg)
+![View of the East River from the Upper East Side.](https://dl.dropbox.com/u/4291520/journal-images/new-york-east-river.jpg)

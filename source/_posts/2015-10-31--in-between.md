@@ -6,7 +6,7 @@ tags:
 date: 2015-10-31 13:43:24
 ---
 
-**The post-retreat weeks** were hectic, mostly because I hadn't yet found a place to stay. But I'm lucky to have friends and family in the city, and a couple of them offered to put me up while I secured a place.
+The post-retreat weeks were hectic, mostly because I hadn't yet found a place to stay. But I'm lucky to have friends and family in the city, and a couple of them offered to put me up while I secured a place.
 
 I got back to the city on Friday and moved into my friends' place in Stuy Town for the weekend. I went out for drinks later that night with my hosts (one of them was celebrating her birthday) and then met up with Chris to see a stand-up comedy show in the Central Village.
 
