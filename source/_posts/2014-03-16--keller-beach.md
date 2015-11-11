@@ -3,7 +3,7 @@ date: 2014-03-16
 tags:
 - daily
 - food
-- books
+- reading
 - point richmond
 - emeryville
 - berkeley

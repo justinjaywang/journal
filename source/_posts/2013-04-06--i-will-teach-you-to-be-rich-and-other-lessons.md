@@ -2,7 +2,7 @@ title: I Will Teach You To Be Rich and other lessons
 date: 2013-04-06
 tags:
 - daily
-- books
+- reading
 ---
 
 I've been reading *[I Will Teach You To Be Rich](http://www.amazon.com/Will-Teach-You-To-Rich/dp/0761147489/ref=sr_1_1?ie=UTF8&qid=1365260902&sr=8-1&keywords=i+will+teach+you+to+be+rich)* during evenings, and I've been enjoying it very much. Earlier this week, I opened up an online savings account at Barclays and a Roth IRA at Charles Schwab.
