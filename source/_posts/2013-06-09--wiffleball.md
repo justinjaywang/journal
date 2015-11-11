@@ -4,7 +4,7 @@ tags:
 - daily
 - movies
 - emeryville
-- reading
+- books
 ---
 
 I feel relieved now that I finally received a new laptop at work earlier this week. That means I don't have to keep bringing in my personal machine and keep work files and programs on it.

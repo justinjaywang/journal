@@ -2,7 +2,7 @@ title: Steve Jobs
 date: 2012-12-31
 tags:
 - reflection
-- reading
+- books
 ---
 
 I finished reading the Steve Jobs biography using iBooks on my phone. Some thoughts and takeaways:
