@@ -70,6 +70,9 @@ archive_generator:
   yearly: false
   monthly: false
 
+tag_generator:
+  per_page: 0
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
