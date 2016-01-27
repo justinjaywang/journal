@@ -4,6 +4,8 @@ tags:
   - food
   - books
   - movies
+  - oc
+  - los angeles
 date: 2016-01-10 16:38:40
 ---
 

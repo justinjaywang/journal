@@ -2,6 +2,7 @@ title: Snowstorm
 tags:
   - daily
   - reflection
+  - new york
 date: 2016-01-27 08:40:31
 ---
 
