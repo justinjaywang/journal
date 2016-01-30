@@ -9,7 +9,7 @@ date: 2015-11-15 18:21:29
 ---
 
 
-I arrived in Orange County on Saturday night. Jen happened to be in town for a conference, so she and Mom picked me up at the airport and we went straight to dinner at [Playground](http://playgrounddtsa.com/) in Santa Ana (she had dinner money from Google). When we got back home, I was tired and fell asleep while Jen watched *Modern Family*. The next morning, we dropped her off at the airport and then relaxed for most of the day. Later that night, I met up for dinner with Randy, Brian, Josh, Joyce, and Youmi at I-Tea Café in Irvine.
+I arrived in Orange County on Saturday night. Jen happened to be in town for a conference, so she and Mom picked me up at the airport and we went straight to dinner at [Playground](http://playgrounddtsa.com/) in Santa Ana (she had dinner money from Google). The next morning, Mom and I dropped her off at the airport and then relaxed for most of the day. That night, I met up for dinner with Randy, Brian, Josh, Joyce, and Youmi at I-Tea Café in Irvine.
 
 During the week, I went to the park for walks very early in the morning (I was still on New York time), worked from home, cooked and ate lunches and dinner with Mom, shot hoops in the side yard, changed the car batteries, watched *Jeopardy!*, went to a job interview, and played guitar and piano. On my last night on Friday, we (minus Brian, plus Nasir) met up at Randy's after dinner and just chatted.
 

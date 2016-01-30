@@ -13,7 +13,7 @@ I spent the holidays back home in Orange County. It was nice and relaxing.
 
 I flew back on Christmas Eve, and read *The Shape of Design* by Frank Chimero. Jen and Mom picked me up when I arrived and then we ate dumplings for dinner. On Christmas Day, we watched the Warriors–Cavs game while preparing food for dinner later at the Wanninger's.
 
-After lunch the next day, Jen and I went shopping and Brendan visited. We had planned to play basketball, but it was too windy so we hung out and watched a Harry Potter marathon on TV instead. I made a dinner of tomato eggs, string beans with minced pork, and pan-fried tofu.
+After lunch the next day, Jen and I went shopping and Brendan visited. We had planned to play basketball, but it was too windy so we hung out and watched TV instead. I made a dinner of tomato eggs, string beans with minced pork, and pan-fried tofu.
 
 On Sunday, I played tennis with Josh at the high school and then made lunch. Dinner that night at Uncle Ray's. The next few days, I mostly hung out at home, cooking meals for myself and Mom, going on walks, and working on projects.
 
