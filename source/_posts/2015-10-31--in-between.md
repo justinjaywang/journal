@@ -10,7 +10,7 @@ The post-retreat weeks were hectic, mostly because I hadn't yet found a place to
 
 I got back to the city on Friday and moved into my friends' place in Stuy Town for the weekend. I went out for drinks later that night with my hosts (one of them was celebrating her birthday) and then met up with Chris to see a stand-up comedy show in the Central Village.
 
-I didn't get to sleep much that night, though. One of the friends that I was staying with was sick. It got so bad that I had to take her to the hospital early in the morning. Turns out she had a stomach flu and would be OK with some rest, but I spent the better part of the day with one of her roommates running errands and helping to wash her sheets that she had thrown up on. In the evening, I took it easy and finally got some rest.
+I didn't get to sleep much that night, though—one of the friends I was staying with was sick. It got so bad that I had to take her to the hospital early in the morning. Turns out she had a stomach flu and would be OK with some rest, but I spent the better part of the day with one of her roommates running errands and helping to wash her sheets that she had thrown up on. In the evening, I took it easy and finally got some rest.
 
 Brian, Youmi, and Leah happened to be in town for the weekend, too. We got Sunday brunch at Cafe Mogador and went thrifting in Williamsburg in the afternoon. That night, I stayed in and watched some TV with my temporary roommates.
 
