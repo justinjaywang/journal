@@ -6,15 +6,15 @@ tags:
 date: 2015-10-31 13:43:24
 ---
 
-The post-retreat weeks were hectic, mostly because I hadn't yet found a place to stay. But I'm lucky to have friends and family in the city, and a couple of them offered to put me up while I secured a place.
+The post-retreat weeks were hectic, mostly because I hadn't yet found a place to stay. I'm lucky to have friends and family in the city, and a couple of them offered to put me up while I secured a place.
 
 I got back to the city on Friday and moved into my friends' place in Stuy Town for the weekend. I went out for drinks later that night with my hosts (one of them was celebrating her birthday) and then met up with Chris to see a stand-up comedy show in the Central Village.
 
-I barely slept that night, unfortunately. Carolina, one of the friends I was staying with, was sick and throwing up all night. It got so bad that I had to take her to the hospital early in the morning (turns out she had a stomach flu). When we got back in the late morning, she needed to rest, so Amy and I ran errands and took care of things for her, including washing her sheets which had puke on them. I also stopped by an apartment in the neighborhood to see about a potential sublet. In the evening, I took it easy and finally got some rest.
+I didn't get to sleep much that night, though. One of the friends that I was staying with was sick. It got so bad that I had to take her to the hospital early in the morning. Turns out she had a stomach flu and would be OK with some rest, but I spent the better part of the day with one of her roommates running errands and helping to wash her sheets that she had thrown up on. In the evening, I took it easy and finally got some rest.
 
-Brian, Youmi, and Leah were in town for the weekend. We got Sunday brunch at Cafe Mogador and went thrifting in Williamsburg in the afternoon. That night, I stayed in and watched some TV with my temporary roommates.
+Brian, Youmi, and Leah happened to be in town for the weekend, too. We got Sunday brunch at Cafe Mogador and went thrifting in Williamsburg in the afternoon. That night, I stayed in and watched some TV with my temporary roommates.
 
-I had the day off on Monday for Columbus Day. I hung out in the apartment in the morning, ordered a porchetta sandwich for lunch, and then moved back over to Michael's in the afternoon.
+I had the day off on Monday for Columbus Day. I hung out in the apartment in the morning with Carolina, ordered a porchetta sandwich for lunch, and then moved back over to Michael's in the afternoon.
 
 ---
 **That night**, I had bún at a nearby Vietnamese café and made friends with the server, who was from Thailand.
