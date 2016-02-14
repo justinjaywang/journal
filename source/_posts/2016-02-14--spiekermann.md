@@ -21,6 +21,6 @@ Skylar lent me the book, and he's been steadily giving me more each week. Along 
 
 Other random things:
 
-- In the cold weather, I'll just be walking and out of nowhere my nose starts to run, full-on dripping down to my mouth. I'd never really experienced that before. Kind of interesting.
+- With the cold weather, I'll just be walking and out of nowhere my nose starts to run, full-on dripping down to my mouth. I'd never really experienced that before. Kind of interesting.
 - I live right across from a church, and the carillon bells ring on the hour (with an additional soft ring at the half hour). I like that. And at noon and 6pm, they play a tune. Reminds me of the Campanile back in school.
 - I started making bread again: yeast breads (mostly sandwich rolls in baguette form) and flatbreads. I've also been experimenting with cold dishes, like julienned red bell pepper in olive oil, vinegar, and garlic.
