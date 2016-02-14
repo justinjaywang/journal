@@ -13,6 +13,6 @@ The one I had at my old place in Emeryville was perfect. I used it as a low tabl
 
 Steve Jobs famously could make buying a sofa into a decade-long ordeal. I can understand that feeling, to a certain extent. Buying furnishings was a big deal for me. And I'd argue that it should be, too, for anyone who cares about the things you surround yourself with on a daily basis. All the stuff I mentioned getting? I spent way too much time deliberating on them before actually deciding. It was a mental drain.
 
-You can hold out, looking for perfection, but there's a cost. Speaking generally, life is lived now, in that time spent searching and holding out. Temporary solutions turn permanent. Sometimes you just have to make the best decision given your current options, rather than wait indefinitely for a better one to show up. Because it might not. You have to move on and make the most of what you have.
+Speaking generally, you can hold out, looking for perfection, but there's a cost. Life is lived now, in that time spent searching and holding out. Temporary solutions turn permanent. Sometimes you just have to make the best decision given your current options, rather than wait indefinitely for a better one to show up. Because it might not. You have to move on and make the most of what you have.
 
 So, I finally bit the bullet and picked up a couple of IKEA [LACK](http://www.ikea.com/us/en/catalog/products/20011413/) side tables after work on Monday.
