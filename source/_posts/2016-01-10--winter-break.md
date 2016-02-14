@@ -6,6 +6,7 @@ tags:
   - movies
   - oc
   - los angeles
+  - reflection
 date: 2016-01-10 16:38:40
 ---
 
@@ -22,3 +23,8 @@ On Sunday, I played tennis with Josh at the high school and then made lunch. Din
 On New Year's Day, I drove up to LA to visit Byron. We spent the day exploring the city with Amy and Vanessa. Highlights included the Griffith Observatory, and dinner and bowling in Koreatown.
 
 I spent the remainder of the weekend relaxing (such as re-watching *Garden State*) before working remotely the last week I was home. On my last night, I got dinner with Randy, Josh, Joyce, and Brian at Souplantation (Randy and Brian had just got back from their Asia trip). We hung out at Youmi's afterwards.
+
+---
+Zach Braff paraphrases his character from *Garden State*:
+
+> I'm 26 years old, and I've spent my whole life waiting for something else to start. Now I realize that this is all there is, and I'm going to try to live my life like that.
