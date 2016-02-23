@@ -19,7 +19,7 @@ My biggest takeaway was that, more than anything, he was a gifted communicator (
 
 Skylar lent me the book, and he's been giving me more each week. Along with the office book collection and the nearby Brooklyn Public Library, I feel like I have a wealth of design material to read and learn from, which is a nice feeling to have.
 
-Other random things:
+Other things:
 
 - With the cold weather, I'll just be walking and out of nowhere my nose starts to run, full-on dripping down to my mouth. I'd never really experienced that before. Kind of interesting.
 - I live right across from a church, and its bells ring the number of hours on the hour (with an additional soft ring at the half hour). I like that. And at noon and 6pm, they play a tune. Reminds me of the Campanile back in school.
