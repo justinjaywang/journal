@@ -9,7 +9,7 @@ date: 2016-02-14 10:47:24
 ---
 
 
-These past couple of weeks, after the snow melted, I've been able to stretch my legs a bit more, walking to Manhattan a handful of times, including a few times to work in the morning. It's been getting colder, though. This morning, the temperature is down to single digits.
+These past couple of weeks, after the snow melted, I've been able to stretch my legs a bit more, walking into Manhattan a handful of times. It's been getting colder, though. This morning, the temperature's down to single digits.
 
 Last weekend, I read *Hello, I am Erik*, an Erik Spiekermann retrospective.
 
