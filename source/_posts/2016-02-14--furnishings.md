@@ -11,8 +11,8 @@ I've just about finished buying furnishings for my place. I ordered a Japanese f
 
 The one I had at my old place in Emeryville was perfect. I used it as a low table for work and reading as well as for sitting. It was from IKEA, but it's since been discontinued. I searched for hours (if not days), both in-store and online, but nothing I found matched my taste, and at a price point I was willing to pay. As a result, I continued to use my suitcase as a desk surface to put my laptop on.
 
-Steve Jobs famously could make buying a sofa into a decade-long ordeal. I can understand that feeling, to a certain extent. Buying furnishings was a big deal for me. And I'd argue that it should be, too, for anyone who cares about the things you surround yourself with on a daily basis. All the stuff I mentioned getting? I spent way too much time deliberating on them before actually deciding. It was a mental drain.
+Steve Jobs famously could make buying a sofa into a decade-long ordeal. I can understand that feeling. Buying furnishings was a big deal for me. And I'd argue that it should be, too, for anyone who cares about the things you surround yourself with on a daily basis. All the stuff I mentioned getting? I spent way too much time deliberating on them before actually deciding. It was a mental drain.
 
-Speaking generally, you can hold out, looking for perfection, but at a cost. Life is lived in that time spent searching and holding out. Temporary solutions turn permanent. Sometimes you just have to make the best decision given your current options, rather than wait for a better one to show up. Because it might not.
+You can hold out looking for perfection, but at a cost. Life is lived in that time spent searching and holding out. Temporary solutions turn permanent. Sometimes you just have to make the best decision given your current options, rather than wait for a better one to show up. Because it might not.
 
-I bit the bullet and picked up two [LACK](http://www.ikea.com/us/en/catalog/products/20011413/) side tables from IKEA after work on Monday.
+I finally bit the bullet and picked up two [LACK](http://www.ikea.com/us/en/catalog/products/20011413/) side tables from IKEA after work on Monday.

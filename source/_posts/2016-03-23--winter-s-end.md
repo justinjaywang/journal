@@ -14,12 +14,12 @@ date: 2016-03-23 20:41:03
 - baby granny smith apples
 - I missed playing music, so I bought a classical guitar and have been playing Cat Stevens's *The Wind*, among other songs
 - MoMA
-- dinner with the Oak guys and Mike and Josh
+- dinner and drinks with Oak
 - basketball with the gang at Brooklyn Bridge Park
 - dinner in Chinatown with Akina
 - weekend walks into Manhattan
 - *Responsible Responsive Design*
-- Jen and Brendan stopped by on their way to Iceland for a couple days; I showed them around all my favorite spots in Brooklyn and the Village
+- Jen and Brendan stopped by on their way to Iceland to visit me for a couple days; I showed them around all my favorite spots in Brooklyn and the Village
 - potato and chives, braised gluten, wood ear mushrooms
 - Brooklyn Museum
 - we moved offices from the Collins space in Union Square to a co-working space in Gowanus; I walk to work every day now and love it
