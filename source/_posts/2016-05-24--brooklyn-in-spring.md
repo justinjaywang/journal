@@ -7,7 +7,7 @@ tags:
   - music
   - family
   - reflection
-date: 2016-05-24 04:51:04
+date: 2016-06-14 08:14:04
 ---
 
 Gettin’ my [priorities](/2014/most-important/) in order. I've been focusing a lot of my energy on work, and it's paying off—I feel like I'm starting to find my stride.
