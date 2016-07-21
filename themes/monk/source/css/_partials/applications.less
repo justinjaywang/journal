@@ -112,12 +112,18 @@ em {
   font-style: @font-style--em;
 }
 blockquote {
-  box-shadow: @box-shadow--blockquote;
   font-size: @font-size--blockquote;
   font-style: @font-style--em;
 }
 blockquote em {
   font-style: @font-style--normal;
+}
+img {
+  width: 100%;
+  .img-responsive();
+}
+blockquote.container {
+  box-shadow: @box-shadow--blockquote;
 }
 
 // nav
@@ -237,10 +243,6 @@ blockquote em {
 }
 .post-content > .post-figure:last-child {
   margin-bottom: @margin-bottom--post-figure-group;
-}
-.post-figure img {
-  width: 100%;
-  .img-responsive();
 }
 .post-figure-caption {
   color: @color--post-figure-caption;
