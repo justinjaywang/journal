@@ -7,9 +7,9 @@ tags:
 date: 2015-01-01 10:20:47
 ---
 
-![Josh.](https://dl.dropbox.com/u/4291520/journal-images/josh-hike.jpg)
-![Randy.](https://dl.dropbox.com/u/4291520/journal-images/randy-hike.jpg)
-![At Google Irvine.](https://dl.dropbox.com/u/4291520/journal-images/google-irvine.jpg)
+![Josh.](/images/josh-hike.jpg)
+![Randy.](/images/randy-hike.jpg)
+![At Google Irvine.](/images/google-irvine.jpg)
 
 Activities:
 

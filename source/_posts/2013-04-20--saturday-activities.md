@@ -6,7 +6,7 @@ tags:
 - berkeley
 ---
 
-![The pool at PPP.](https://dl.dropbox.com/u/4291520/journal-images/ppp-pool.jpg)
+![The pool at PPP.](/images/ppp-pool.jpg)
 
 Spent last night and this morning starting to work on my new personal project (details once I finish). 
 

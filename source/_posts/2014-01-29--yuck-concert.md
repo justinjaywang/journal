@@ -6,6 +6,6 @@ tags:
 - concerts
 ---
 
-![Yuck at the Independent.](https://dl.dropbox.com/u/4291520/journal-images/yuck-1.jpg)
+![Yuck at the Independent.](/images/yuck-1.jpg)
 
 [Yuck](http://yuckband.com/) concert by myself in the City tonight. I've been really into this band as of late. When I saw they were playing nearby, I jumped at the opportunity.

@@ -7,8 +7,8 @@ tags:
 - oakland
 ---
 
-![Ma po tofu from Mission Chinese Food.](https://dl.dropbox.com/u/4291520/journal-images/mission-chinese-food.jpg)
-![](https://dl.dropbox.com/u/4291520/journal-images/mission-birds.jpg)
+![Ma po tofu from Mission Chinese Food.](/images/mission-chinese-food.jpg)
+![](/images/mission-birds.jpg)
 
 This past weekend was a long one, thanks to the Presidents' Day holiday on Monday. I was hoping to make good progress on my portfolio, but that didn't happen. I should have just resigned myself to that fact from the start and taken it easy—which I did, for the most part.
 

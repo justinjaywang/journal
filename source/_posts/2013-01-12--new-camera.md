@@ -4,9 +4,9 @@ tags:
 - reflection
 ---
 
-![Akina with lens cap.](https://dl.dropbox.com/u/4291520/journal-images/akina-at-park.jpg)
+![Akina with lens cap.](/images/akina-at-park.jpg)
 
-![Akina at the park.](https://dl.dropbox.com/u/4291520/journal-images/feet-el-conejo.jpg)
+![Akina at the park.](/images/feet-el-conejo.jpg)
 
 First photoshoot with my new Micro Four Thirds camera. I treated myself to the lens, a Lumix 20mm f/1.7, and Akina gave me the body, an Olympus PEN E-PL1, as a gift.
 

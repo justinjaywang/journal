@@ -7,8 +7,8 @@ tags:
 - san francisco
 ---
 
-![El Agricultor truck near the office.](https://dl.dropbox.com/u/4291520/journal-images/el-agricultor-1.jpg)
-![Tacos from El Agricultor.](https://dl.dropbox.com/u/4291520/journal-images/el-agricultor-2.jpg)
+![El Agricultor truck near the office.](/images/el-agricultor-1.jpg)
+![Tacos from El Agricultor.](/images/el-agricultor-2.jpg)
 
 Back at the office this week. We've finally submitted our apps, both Windows Phone and Windows Store; still some remaining bugs we'll address in the next update, but it's nevertheless a great accomplishment considering the challenges the team faced.
 

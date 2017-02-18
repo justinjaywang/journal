@@ -5,7 +5,7 @@ tags:
 - food
 ---
 
-![Driving thought the Grapevine back up to the Bay.](https://dl.dropbox.com/u/4291520/journal-images/grapevine-2.jpg)
+![Driving thought the Grapevine back up to the Bay.](/images/grapevine-2.jpg)
 
 I had to work the last few days I was home, unfortunately. However, when I wasn't working I had a relaxing time.
 

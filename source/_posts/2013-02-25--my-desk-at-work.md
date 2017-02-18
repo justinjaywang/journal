@@ -4,4 +4,4 @@ tags:
 - daily
 ---
 
-![My desk at work.](https://dl.dropbox.com/u/4291520/journal-images/desk.jpg)
+![My desk at work.](/images/desk.jpg)

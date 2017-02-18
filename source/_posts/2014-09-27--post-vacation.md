@@ -8,7 +8,7 @@ tags:
 - san francisco
 ---
 
-![View from the top of the hill I'd often run up in Point Richmond.](https://dl.dropbox.com/u/4291520/journal-images/richmond-marina-bay.jpg)
+![View from the top of the hill I'd often run up in Point Richmond.](/images/richmond-marina-bay.jpg)
 
 I had jet lag for several days once I got back. Twice, I went down for a nap, but didn't wake up until six hours later. In the time I was awake, I had lunch with Akina in Berkeley on Saturday. Sunday, I played tennis with Brendan and Jennifer at their place.
 

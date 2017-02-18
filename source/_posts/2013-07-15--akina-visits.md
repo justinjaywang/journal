@@ -7,7 +7,7 @@ tags:
 - movies
 ---
 
-![Spoon Korean Bistro](https://dl.dropbox.com/u/4291520/journal-images/spoon.jpg)
+![Spoon Korean Bistro](/images/spoon.jpg)
 
 Akina got a ride with a friend up to the Bay Area for the weekend. On Sunday, we finally got around to trying [Spoon Korean Bistro](http://www.spoonashby.com/spoon/) for brunch. It lived up to our expectations. I got dolsot bibimbap in a nice, hot stone bowl.
 

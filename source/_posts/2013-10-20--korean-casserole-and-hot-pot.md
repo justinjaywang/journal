@@ -8,7 +8,7 @@ tags:
 - oakland
 ---
 
-![Cal soccer match.](https://dl.dropbox.com/u/4291520/journal-images/cal-soccer.jpg)
+![Cal soccer match.](/images/cal-soccer.jpg)
 
 - Dinner with the BI alums at [Casserole House](http://www.casserolehouse.com/) in Oakland on Tuesday night.
 - Hot pot at Irena's place in the city on Saturday.

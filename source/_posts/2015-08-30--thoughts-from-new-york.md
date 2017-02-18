@@ -18,6 +18,6 @@ The sheer urban-ness has made me crave space, quiet, and nature. Crowded streets
 
 A lot of the people living here seem to be only temporary—young professionals who work hard for a handful of years, burn out, and then move to the suburbs. Or Cleveland. Living in New York is almost like a rite of passage.
 
-![Manhattan's Chinatown.](https://dl.dropbox.com/u/4291520/journal-images/new-york-chinatown.jpg)
-![Tompkins Square Park in the East Village.](https://dl.dropbox.com/u/4291520/journal-images/new-york-tompkins.jpg)
-![View of the East River from the Upper East Side.](https://dl.dropbox.com/u/4291520/journal-images/new-york-east-river.jpg)
+![Manhattan's Chinatown.](/images/new-york-chinatown.jpg)
+![Tompkins Square Park in the East Village.](/images/new-york-tompkins.jpg)
+![View of the East River from the Upper East Side.](/images/new-york-east-river.jpg)

@@ -4,7 +4,7 @@ tags:
 - daily
 ---
 
-![The courtyard at the Bridgewater apartment complex.](https://dl.dropbox.com/u/4291520/journal-images/bridgewater.jpg)
+![The courtyard at the Bridgewater apartment complex.](/images/bridgewater.jpg)
 
 I've been so busy the last few months I haven't put in a word about my apartment. 
 

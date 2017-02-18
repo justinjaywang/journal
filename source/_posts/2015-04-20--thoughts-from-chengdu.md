@@ -22,7 +22,7 @@ Visiting Du Fu's Thatched Cottage was interesting, too. I read about some of Chi
 
 On one hand, it's nice that the park is accessible to visitors—after all, I got to see it. But opening up Jiazhaigou, like any nature reserve, just means its eventual destruction, and that makes me sad. Roads and walkways are built. Buses and pollution are brought in. And inevitably, people will leave their trash (and even throw coins into the lakes).
 
-![This makes me sad.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-trash.jpg)
+![This makes me sad.](/images/chengdu-trash.jpg)
 
 **It's important** to enjoy who you work with (this seems to be a common theme during my travels), and might be the key for me to be happy in a career. During the Mount Qingcheng retreat, Randy and I got to know some of Robert's co-workers—it helped that they were around our age—and it was definitely the most fun leg of the entire trip.
 
@@ -58,14 +58,14 @@ One girl in particular was really energetic, upbeat, and liked to joke around, a
 - lotus root and other liang ban in sesame chili oil
 - dandan noodles—preserved vegetables, minced pork, chili oil, scallions, peanuts
 
-![Dinner the first night: cucumber, water-cooked innards, braised daikon, and something else.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-1.jpg)
-![Lunch with Randy's relatives. My favorite dishes were wood ear mushrooms with pepperoncini and fuqi feipian.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-2.jpg)
-![Mapo tofu (top) and mei cai kou rou (bottom).](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-3.jpg)
-![At a rest stop, on the way to Jiuzhaigou.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-4.jpg)
-![Red-cooked beef noodle soup at Jiuzhaigou. I ate this well even inside a national park.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-5.jpg)
-![A bamboo-themed restaurant at the Panda Reserve. The one with the leaves was cooked in a vinegar brine and was especially delicious.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-6.jpg)
-![Even random restaurants were gourmet and the flavors spot-on, like this one at Mount Qingcheng.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-7.jpg)
-![Dinner the last night.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-8.jpg)
-![Dandan noodles with pao cai on the side.](https://dl.dropbox.com/u/4291520/journal-images/chengdu-food-9.jpg)
+![Dinner the first night: cucumber, water-cooked innards, braised daikon, and something else.](/images/chengdu-food-1.jpg)
+![Lunch with Randy's relatives. My favorite dishes were wood ear mushrooms with pepperoncini and fuqi feipian.](/images/chengdu-food-2.jpg)
+![Mapo tofu (top) and mei cai kou rou (bottom).](/images/chengdu-food-3.jpg)
+![At a rest stop, on the way to Jiuzhaigou.](/images/chengdu-food-4.jpg)
+![Red-cooked beef noodle soup at Jiuzhaigou. I ate this well even inside a national park.](/images/chengdu-food-5.jpg)
+![A bamboo-themed restaurant at the Panda Reserve. The one with the leaves was cooked in a vinegar brine and was especially delicious.](/images/chengdu-food-6.jpg)
+![Even random restaurants were gourmet and the flavors spot-on, like this one at Mount Qingcheng.](/images/chengdu-food-7.jpg)
+![Dinner the last night.](/images/chengdu-food-8.jpg)
+![Dandan noodles with pao cai on the side.](/images/chengdu-food-9.jpg)
 
 **This was a once-in-a-lifetime opportunity** to see a city I would have otherwise probably never gone to—after all, Chengdu's not the first city you think of when you want to visit China. I'm lucky to have had it, thanks to Randy and his family.

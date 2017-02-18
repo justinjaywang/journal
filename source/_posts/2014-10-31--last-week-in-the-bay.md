@@ -11,4 +11,4 @@ During my last week in the Bay, I was going on a lot of walks (and sometimes run
 
 On Saturday, I had Koryo for dinner with Akina and played board games afterwards at Theresa's house with Jason, Irena, and some of their friends. On Tuesday, I loaded up the car with my belongings during the day and watched opening night of the NBA at Brendan's during the evening. Early the next morning, I left for home.
 
-![Geese at the Berkeley Aquatic Park.](https://dl.dropbox.com/u/4291520/journal-images/aquatic-park.jpg)
+![Geese at the Berkeley Aquatic Park.](/images/aquatic-park.jpg)

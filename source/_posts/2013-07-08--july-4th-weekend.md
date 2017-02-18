@@ -9,9 +9,9 @@ tags:
 - july 4th
 ---
 
-![Flamingos at the zoo.](https://dl.dropbox.com/u/4291520/journal-images/san-diego-zoo-flamingos.jpg)
-![A zebra.](https://dl.dropbox.com/u/4291520/journal-images/san-diego-zoo-zebra.jpg)
-![Salt Creek beach.](https://dl.dropbox.com/u/4291520/journal-images/salt-creek.jpg)
+![Flamingos at the zoo.](/images/san-diego-zoo-flamingos.jpg)
+![A zebra.](/images/san-diego-zoo-zebra.jpg)
+![Salt Creek beach.](/images/salt-creek.jpg)
 
 Spent the long July 4th weekend down in Southern California.
 

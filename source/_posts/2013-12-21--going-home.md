@@ -6,7 +6,7 @@ tags:
 - emeryville
 ---
 
-![Driving through the Grapevine on our way home.](https://dl.dropbox.com/u/4291520/journal-images/grapevine.jpg)
+![Driving through the Grapevine on our way home.](/images/grapevine.jpg)
 
 - Vertigo holiday party on Monday night, with catered food (pot roast). It was nice to see the office decorated and alive.
 - My new ingredient of the week was daikon radish, with the most successful preparation being daikon sautéed with bacon and Brussels sprouts. I also tried roasting.

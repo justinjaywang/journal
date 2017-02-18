@@ -5,7 +5,7 @@ tags:
 - food
 ---
 
-![Cal football game.](https://dl.dropbox.com/u/4291520/journal-images/cal-football.jpg)
+![Cal football game.](/images/cal-football.jpg)
 
 This past week in the evenings, I've been working on my typeface project when I'm not watching episodes of *Good Eats*. The project got a restart after my initial idea didn't turn out very well; more on this once it's finished (I made a bet with Akina that I'd finish by Christmas). On Saturday, I went to the Cal football game with Jen, Brendan, and a small group of friends.
 

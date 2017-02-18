@@ -5,6 +5,6 @@ tags:
 - daily
 ---
 
-![Wingstop wings and fries.](https://dl.dropbox.com/u/4291520/journal-images/wingstop.jpg)
+![Wingstop wings and fries.](/images/wingstop.jpg)
 
 One last hangout before Akina leaves for summer, featuring Wingstop.

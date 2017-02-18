@@ -6,7 +6,7 @@ tags:
 - san francisco
 ---
 
-![At a park in Chinatown.](https://dl.dropbox.com/u/4291520/journal-images/chinatown-park.jpg)
+![At a park in Chinatown.](/images/chinatown-park.jpg)
 
 - I had Jen and Brendan over for Taiwanese braised pork on Monday night. I'd spend the entire week finishing the leftovers.
 - Lunch with Tony on Tuesday at [Assemble](http://assemblerestaurant.com/) after my compensation review.

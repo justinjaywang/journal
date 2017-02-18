@@ -7,7 +7,7 @@ tags:
 - movies
 ---
 
-![Salt Creek beach.](https://dl.dropbox.com/u/4291520/journal-images/salt-creek-3.jpg)
+![Salt Creek beach.](/images/salt-creek-3.jpg)
 
 It's been a good break so far. I got to make some meals for Mom and Jen, such as slow-roasted pork shoulder two ways (one in garlic oil, one in tomato sauce), slow-roasted chicken thighs, frittata, and oxtail stew. And on Christmas, we went over to the Wanningers for dinner (ham, green beans, and salads).
 

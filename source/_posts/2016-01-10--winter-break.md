@@ -18,7 +18,7 @@ After lunch the next day, Jen and I went shopping and Brendan visited. We had pl
 
 On Sunday, I played tennis with Josh at the high school and then made lunch. Dinner that night at Uncle Ray's. The next few days, I mostly hung out at home, cooking meals for myself and Mom, going on walks, and working on projects.
 
-![Palm trees in LA.](https://dl.dropbox.com/u/4291520/journal-images/la-palms.jpg)
+![Palm trees in LA.](/images/la-palms.jpg)
 
 On New Year's Day, I drove up to LA to visit Byron. We spent the day exploring the city with Amy and Vanessa. Highlights included the Griffith Observatory, and dinner and bowling in Koreatown.
 

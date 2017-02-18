@@ -14,4 +14,4 @@ There was, however, a period of a few days where I was eating out. I took Mom an
 
 I've also been going on walks, reading, researching jobs, doing push-ups, shooting hoops in the side yard, catching the NBA and Modern Family on TV, listening to podcasts, and playing piano (Youth Lagoon and Bruno Mars).
 
-![A hummingbird who wanted to read my portfolio.](https://dl.dropbox.com/u/4291520/journal-images/hummingbird.jpg)
+![A hummingbird who wanted to read my portfolio.](/images/hummingbird.jpg)

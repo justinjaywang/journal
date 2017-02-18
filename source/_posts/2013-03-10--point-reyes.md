@@ -4,10 +4,10 @@ tags:
 - point reyes
 ---
 
-![Akina jumping.](https://dl.dropbox.com/u/4291520/journal-images/akina-jumping.jpg)
+![Akina jumping.](/images/akina-jumping.jpg)
 
-![Me jumping.](https://dl.dropbox.com/u/4291520/journal-images/justin-jumping.jpg)
+![Me jumping.](/images/justin-jumping.jpg)
 
-![Looking down at the coast at Point Reyes.](https://dl.dropbox.com/u/4291520/journal-images/point-reyes.jpg)
+![Looking down at the coast at Point Reyes.](/images/point-reyes.jpg)
 
 Day trip to [Point Reyes](http://en.wikipedia.org/wiki/Point_reyes) with Akina, Brendan, and Jen.

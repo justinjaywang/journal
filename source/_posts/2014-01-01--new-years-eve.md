@@ -6,8 +6,8 @@ tags:
 - oc
 ---
 
-![Mom, Jen, and I went on a walk up to La Paz.](https://dl.dropbox.com/u/4291520/journal-images/la-paz-hike.jpg)
-![Boiling Point in Irvine with the gang.](https://dl.dropbox.com/u/4291520/journal-images/boiling-point.jpg)
+![Mom, Jen, and I went on a walk up to La Paz.](/images/la-paz-hike.jpg)
+![Boiling Point in Irvine with the gang.](/images/boiling-point.jpg)
 
 Yesterday, in the late morning, we went on a walk around the neighborhood and up to La Paz.
 

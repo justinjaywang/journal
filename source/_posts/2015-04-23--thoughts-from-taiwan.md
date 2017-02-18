@@ -24,11 +24,11 @@ Chengdu food was incredible, but Taiwanese is still my absolute favorite. It's c
 - ke jia xiao chao (Hakka stir-fry)
 - tofu skin roll
 
-![Breakfast—congee with side dishes, such as pickled vegetables, bamboo, gluten, peanuts, salted egg.](https://dl.dropbox.com/u/4291520/journal-images/taiwan-2015-food-1.jpg)
-![Lunch box on the train—lu rou fan, braised tofu, pork floss, fried fish cake, fish ball soup.](https://dl.dropbox.com/u/4291520/journal-images/taiwan-2015-food-2.jpg)
-![Liang ban (pig ears, mixed vegetables, and gobo root) paired with rice.](https://dl.dropbox.com/u/4291520/journal-images/taiwan-2015-food-3.jpg)
-![Pai gu and ji tui fan at Emperor Foods—still the best I've ever eaten.](https://dl.dropbox.com/u/4291520/journal-images/taiwan-2015-food-4.jpg)
-![Grilled Pacific saury, anchovies with peanuts, veggies, purple rice.](https://dl.dropbox.com/u/4291520/journal-images/taiwan-2015-food-5.jpg)
-![Wonton soup, shredded daikon savory pastry, and vegetable rice.](https://dl.dropbox.com/u/4291520/journal-images/taiwan-2015-food-6.jpg)
+![Breakfast—congee with side dishes, such as pickled vegetables, bamboo, gluten, peanuts, salted egg.](/images/taiwan-2015-food-1.jpg)
+![Lunch box on the train—lu rou fan, braised tofu, pork floss, fried fish cake, fish ball soup.](/images/taiwan-2015-food-2.jpg)
+![Liang ban (pig ears, mixed vegetables, and gobo root) paired with rice.](/images/taiwan-2015-food-3.jpg)
+![Pai gu and ji tui fan at Emperor Foods—still the best I've ever eaten.](/images/taiwan-2015-food-4.jpg)
+![Grilled Pacific saury, anchovies with peanuts, veggies, purple rice.](/images/taiwan-2015-food-5.jpg)
+![Wonton soup, shredded daikon savory pastry, and vegetable rice.](/images/taiwan-2015-food-6.jpg)
 
 I did have some non-food thoughts, but I'll save those for their own journal entry.

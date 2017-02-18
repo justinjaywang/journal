@@ -6,7 +6,7 @@ tags:
 - food
 ---
 
-![Salt Creek](https://dl.dropbox.com/u/4291520/journal-images/salt-creek-2.jpg)
+![Salt Creek](/images/salt-creek-2.jpg)
 
 I hate that end-of-trip feeling. 
 
